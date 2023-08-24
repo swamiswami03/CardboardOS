@@ -16,4 +16,8 @@ CardboardOS is not a seperate operating system. It is EndeavourOS running Xmonad
 + Install picom
   + install ``` https://github.com/jonaburg/picom.git ```
   + follow the install instructions on the repo
++ Install polybar & polybar themes  
+  + On arch  systems ``` sudo pacman -S polybar ```
+  + On apt system ``` sudo apt install polybar ```
+  + Install polybar themes ``` https://github.com/adi1090x/polybar-themes ``` and follow install instructions there
 + Drag and drop the config files into the correct directories
